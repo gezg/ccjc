@@ -2,7 +2,7 @@
   "name": "ccjc",
   "version": "1.0.0",
   "description": " 长春嘉诚信息股份有限公司",
-  "main": "index.js",
+  "main": "bin/index.js",
   "bin": {
     "ccjc": "bin/index.js"
   },
