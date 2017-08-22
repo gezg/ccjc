@@ -1,0 +1,26 @@
+{
+  "name": "ccjc",
+  "version": "1.0.0",
+  "description": " 长春嘉诚信息股份有限公司",
+  "main": "index.js",
+  "bin": {
+    "ccjc": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gezg/ccjc.git"
+  },
+  "author": "1005",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gezg/ccjc/issues"
+  },
+  "homepage": "https://github.com/gezg/ccjc#readme",
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0"
+  }
+}
